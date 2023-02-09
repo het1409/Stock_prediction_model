@@ -1,0 +1,7 @@
+pandas
+pandas_datareader
+matplotlib
+numpy
+sklearn
+streamlit
+keras
